@@ -56,3 +56,7 @@ Key source code, configuration, and documentation are organized by folders at th
 ## Contribution Guidelines
 
 Please open an issue for major changes and submit focused pull requests with clear descriptions.
+
+## Weekly Maintenance Log
+
+- 2026-03-28: reviewed repo health (README=yes, LICENSE=no, CI=no)
